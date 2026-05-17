@@ -1,0 +1,9 @@
+What is a shell in Linux?
+
+A - A graphical user interface for managing files
+
+B - A special user program that provides an interface to use operating system services 
+
+C - A web browser for Linux
+
+D - A programming language
